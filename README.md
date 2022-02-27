@@ -1,2 +1,2 @@
 # tryhackme
-My tryhackme solution
+My tryhackme solutions
